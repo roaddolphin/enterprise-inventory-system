@@ -2,3 +2,12 @@
 # current screenshots
 
 Here are a few screenshots for EIS
+
+= Host Listing =
+
+http://people.fotolog.com/luis_mondesi/images/eis-screenshot1.png
+
+
+= Host Details =
+
+http://people.fotolog.com/luis_mondesi/images/eis-screenshot2.png
