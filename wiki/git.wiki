@@ -1,4 +1,5 @@
 #summary source code repository information.
+#labels Featured,Phase-Deploy,git
 
 = Introduction =
 
