@@ -1,13 +1,10 @@
-#labels Featured,Phase-Design
-
-
+#labels Featured,Phase-Design,screenshots
 Here are a few screenshots for EIS
 
 = Host Listing =
 
-http://people.fotolog.com/luis_mondesi/images/eis-screenshot1.png
-
+http://github.com/kiskeyix/eis/raw/master/www/images/eis-screenshot1.png
 
 = Host Details =
 
-http://people.fotolog.com/luis_mondesi/images/eis-screenshot2.png
+http://github.com/kiskeyix/eis/raw/master/www/images/eis-screenshot2.png
