@@ -1,0 +1,9 @@
+Here are a few screenshots for EIS
+
+# Host Listing #
+
+![http://github.com/kiskeyix/eis/raw/master/www/images/eis-screenshot1.png](http://github.com/kiskeyix/eis/raw/master/www/images/eis-screenshot1.png)
+
+# Host Details #
+
+![http://github.com/kiskeyix/eis/raw/master/www/images/eis-screenshot2.png](http://github.com/kiskeyix/eis/raw/master/www/images/eis-screenshot2.png)

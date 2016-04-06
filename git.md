@@ -1,0 +1,9 @@
+# Introduction #
+
+Our source code is hosted in github
+
+
+# Details #
+
+To get a copy of our repository do:
+  * git clone git://github.com/kiskeyix/eis.git
